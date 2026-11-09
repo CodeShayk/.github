@@ -73,11 +73,11 @@ Najaf is a software architect with a keen interest in application frameworks.
     </td>
   </tr>
   <tr>
-    <td width="150"><a href="https://www.amazon.com/Problems-Patterns-Domain-Driven-Sourcing-Understanding-ebook/dp/B0GX32V9F1/"><img alt="Cover of Domain-Driven Design and Event Sourcing in .NET" src="https://raw.githubusercontent.com/CodeShayk/.github/master/images/covers/ddd-event-sourcing.jpg" width="130"/></a></td>
+    <td width="150"><a href="https://www.amazon.co.uk/Problems-Patterns-Domain-Driven-Sourcing-Understanding-ebook/dp/B0GX32V9F1"><img alt="Cover of Domain-Driven Design and Event Sourcing in .NET" src="https://raw.githubusercontent.com/CodeShayk/.github/master/images/covers/ddd-event-sourcing.jpg" width="130"/></a></td>
     <td>
       <strong>From Problems to Patterns: Domain-Driven Design and Event Sourcing in .NET</strong><br/>
       <em>Understanding the Patterns, One Problem at a Time</em><br/>
-      <a href="https://www.amazon.com/Problems-Patterns-Domain-Driven-Sourcing-Understanding-ebook/dp/B0GX32V9F1/">Buy on Amazon</a> · <a href="https://github.com/CodeShayk/dd-event-sourcing-dotnet-samples">Companion code</a>
+      <a href="https://www.amazon.co.uk/Problems-Patterns-Domain-Driven-Sourcing-Understanding-ebook/dp/B0GX32V9F1">Buy on Amazon</a> · <a href="https://github.com/CodeShayk/dd-event-sourcing-dotnet-samples">Companion code</a>
     </td>
   </tr>
 </table>
