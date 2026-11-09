@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://codeshayk.github.io"><img alt="Website" src="https://img.shields.io/badge/website-codeshayk.github.io-0f1720?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/najaf-shaikh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-najaf--shaikh-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dev.to/codeshayk"><img alt="DEV" src="https://img.shields.io/badge/dev.to-codeshayk-0a0a0a?style=flat-square&logo=devdotto&logoColor=white"/></a>
   <img alt="Books" src="https://img.shields.io/badge/books-5-f2a93b?style=flat-square"/>
 </p>
 
@@ -109,5 +108,5 @@ Contributions are welcome, whether you are fixing a bug, improving documentation
 ---
 
 <p align="center">
-  <sub>Built by <strong>Najaf A. Shaikh</strong> · <a href="https://codeshayk.github.io">codeshayk.github.io</a> · <a href="mailto:najaf.shaikh@gmail.com">najaf.shaikh@gmail.com</a></sub>
+  <sub>Built by <strong>Najaf A. Shaikh</strong> · <a href="https://codeshayk.github.io">codeshayk.github.io</a> · <a href="mailto:code.shayk@outlook.com">code.shayk@outlook.com</a></sub>
 </p>
