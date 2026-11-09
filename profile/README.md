@@ -42,12 +42,12 @@ Najaf is a software architect with a keen interest in application frameworks.
     </td>
   </tr>
   <tr>
-    <td width="150"><a href="https://github.com/CodeShayk/agentic-ui-dotnet-samples"><img alt="Cover of Agentic UI in .NET" src="https://raw.githubusercontent.com/CodeShayk/.github/master/images/covers/agentic-ui.jpg" width="130"/></a></td>
+    <td width="150"><a href="https://www.amazon.co.uk/Problems-Patterns-Building-Interfaces-Protocol-ebook/dp/B0HMJVHVWB"><img alt="Cover of Agentic UI in .NET" src="https://raw.githubusercontent.com/CodeShayk/.github/master/images/covers/agentic-ui.jpg" width="130"/></a></td>
     <td>
       <strong>From Problems to Patterns: Agentic UI in .NET</strong><br/>
       <em>Building Agentic User Interfaces with the AG-UI Protocol in .NET</em><br/>
       AI Series, Book 2<br/>
-      <a href="https://github.com/CodeShayk/agentic-ui-dotnet-samples">Companion code</a>
+      <a href="https://www.amazon.co.uk/Problems-Patterns-Building-Interfaces-Protocol-ebook/dp/B0HMJVHVWB">Buy on Amazon</a> · <a href="https://github.com/CodeShayk/agentic-ui-dotnet-samples">Companion code</a>
     </td>
   </tr>
   <tr>
@@ -65,11 +65,11 @@ Najaf is a software architect with a keen interest in application frameworks.
 
 <table>
   <tr>
-    <td width="150"><a href="https://github.com/CodeShayk/ai-engineer-dotnet-samples"><img alt="Cover of From .NET Developer to AI Engineer" src="https://raw.githubusercontent.com/CodeShayk/.github/master/images/covers/ai-engineer.jpg" width="130"/></a></td>
+    <td width="150"><a href="https://www.amazon.co.uk/Net-Developer-Engineer-AI-powered-applications-ebook/dp/B0HLTSS8QN"><img alt="Cover of From .NET Developer to AI Engineer" src="https://raw.githubusercontent.com/CodeShayk/.github/master/images/covers/ai-engineer.jpg" width="130"/></a></td>
     <td>
       <strong>From .NET Developer to AI Engineer</strong><br/>
       <em>Build on the skills you already have to integrate, architect and ship reliable AI-powered applications</em><br/>
-      <a href="https://github.com/CodeShayk/ai-engineer-dotnet-samples">Companion code</a>
+      <a href="https://www.amazon.co.uk/Net-Developer-Engineer-AI-powered-applications-ebook/dp/B0HLTSS8QN">Buy on Amazon</a> · <a href="https://github.com/CodeShayk/ai-engineer-dotnet-samples">Companion code</a>
     </td>
   </tr>
   <tr>
