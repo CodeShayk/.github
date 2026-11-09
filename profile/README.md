@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://codeshayk.github.io"><img alt="Website" src="https://img.shields.io/badge/website-codeshayk.github.io-0f1720?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/najaf-shaikh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-najaf--shaikh-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img alt="Books" src="https://img.shields.io/badge/books-5-f2a93b?style=flat-square"/>
+  <a href="https://www.amazon.co.uk/stores/Mr-Najaf-A-Shaikh/author/B0GWSX62SM"><img alt="Books" src="https://img.shields.io/badge/books-5-f2a93b?style=flat-square"/></a>
 </p>
 
 ---
