@@ -89,7 +89,7 @@ Najaf is a software architect with a keen interest in application frameworks.
 | Library | What it does |
 | --- | --- |
 | [**SourceFlow.Net**](https://github.com/CodeShayk/SourceFlow.Net) | A lightweight framework for event-sourced .NET applications using domain-driven design and CQRS. Used throughout the book *Domain-Driven Design and Event Sourcing in .NET*. |
-| [**Abacus Run**](https://github.com/CodeShayk/Abacus-Run) | A workflow runtime and HTTP host for durable, observable workflows, built on Microsoft Agent Framework. |
+| [**Abacus Run**](https://github.com/CodeShayk/Abacus-Run) | An AI enabled workflow runtime and HTTP host for durable, observable workflows, built on Microsoft Agent Framework. Adds retries, checkpoints, approvals, event history and server-sent events. |
 | [**ActiveForge**](https://github.com/CodeShayk/ActiveForge) | An Active Record-style ORM for .NET with providers for SQL Server, PostgreSQL and MongoDB. |
 | [**DataFuse**](https://github.com/CodeShayk/DataFuse.Net) | Like GraphQL, but for your heterogeneous backends. Aggregates SQL, REST and other sources into strongly typed objects. |
 | [**FeatureOne**](https://github.com/CodeShayk/FeatureOne) | Feature toggles for .NET, with SQL and file storage providers or your own storage backend. |
